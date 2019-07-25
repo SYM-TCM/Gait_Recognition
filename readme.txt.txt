@@ -1,8 +1,6 @@
+Python 步态识别
 
 
 
-This is Git test！
-
-
-
-this next test！
+--SYM
+--2019.7.25
